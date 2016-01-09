@@ -30,12 +30,26 @@ Hordeling Outburst
 Kolaghan Forerunners?
 Molten Birth
 Pyreheart Wolf
+Goblin Heelcutter
 
 
 # 4 CMC
+Avaricious Dragon
+Chandra, Pyromaster
+Flametongue Kavu
+Koth of the Hammer
+Outpost Siege
+Pia and Kiran Nalaar
+Thunderbreak Regent?
 
 
 # LOTS
+Sarkhan, the Dragonspeaker
+Thundermaw Hellkite
+Urabrask the Hidden
+Zealous Conscripts
+Inferno Titan
+Chandra, Flamecaller?
 
 
 # BURN
@@ -65,3 +79,5 @@ Harness By Force
 Radiant Flames
 Seething Song
 Slagstorm
+Chandra's Ignition
+Blasephemous Act
