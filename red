@@ -12,11 +12,15 @@ Zurgo Bellstriker
 
 # 2 CMC
 Abbot of Keral Keep
+Dragon Fodder
 Firefist Striker
 Generator Servant
+Goblin Bombardment
 Gore-House Chainwalker
 Keldon Marauders
+Krenko's Command
 Lightning Mauler
+Mogg War Marshal
 Mogis's Warhound
 Plated Geopede
 Young Pyromancer
