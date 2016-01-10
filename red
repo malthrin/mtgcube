@@ -79,6 +79,7 @@ Weapon Surge
 Harvest Pyre
 Mizzium Mortars
 Roast
+Dynacharge
 Harness By Force
 Radiant Flames
 Seething Song
