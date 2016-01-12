@@ -35,6 +35,7 @@ func main() {
 				continue
 			}
 			fmt.Printf("%v\t%v\n", cf.Name, cf.CardCount())
+			total += cf.CardCount()
 		}
 		fmt.Printf("\nTotal\t%v\n", total)
 	} else {
