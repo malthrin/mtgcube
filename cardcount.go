@@ -21,11 +21,12 @@ var (
 )
 
 func main() {
-	arg := os.Args[1]
-	if len(os.Args) < 2 || arg == "" {
+	if len(os.Args) < 2 {
 		fmt.Println("No arg")
 		return
-	} else if arg == "all" {
+	}
+	arg := os.Args[1]
+	if arg == "all" {
 		total := 0
 		for _, filename := range Files {
 			cf, err := ReadFile(filename)
@@ -51,7 +52,7 @@ func main() {
 			}
 		}
 		if !found {
-			fmt.Printf("Unknown arg '%v'", arg)
+			fmt.Printf("Unknown arg '%v'\n", arg)
 		}
 	}
 }
