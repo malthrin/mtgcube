@@ -14,8 +14,8 @@ var (
 		"black",
 		"red",
 		"green",
-		"multicolor",
-		"colorless",
+		"multi",
+		"nocolor",
 		"land",
 	}
 )
@@ -28,15 +28,25 @@ func main() {
 	} else if arg == "all" {
 		total := 0
 		for _, filename := range Files {
-			total += PrintFileStats(filename)
+			cf, err := ReadFile(filename)
+			if err != nil {
+				fmt.Printf("Read error: %v\n", err.Error())
+				continue
+			}
+			fmt.Printf("%v\t%v\n", cf.Name, cf.CardCount())
 		}
-		fmt.Printf("Total :%v\n", total)
+		fmt.Printf("\nTotal\t%v\n", total)
 	} else {
 		found := false
 		for _, filename := range Files {
 			if arg == filename {
-				PrintFileStats(filename)
 				found = true
+				cf, err := ReadFile(filename)
+				if err != nil {
+					fmt.Printf("Read error: %v\n", err.Error())
+				} else {
+					PrintFile(cf)
+				}
 				break
 			}
 		}
@@ -46,14 +56,15 @@ func main() {
 	}
 }
 
-func PrintFileStats(filename string) int {
+func ReadFile(filename string) (*CardFile, error) {
 	file, err := os.Open(filename)
 	if err != nil {
-		fmt.Println(err.Error())
-		return 0
+		return &CardFile{}, err
 	}
 	defer file.Close()
 	scanner := bufio.NewScanner(file)
+	sections := make([]*Section, 0)
+	var current *Section
 	for scanner.Scan() {
 		line := strings.TrimSpace(scanner.Text())
 		if len(line) == 0 {
@@ -61,10 +72,39 @@ func PrintFileStats(filename string) int {
 		}
 		if line[0] == '#' {
 			header := strings.TrimSpace(line[1:])
-			fmt.Println(header)
+			current = &Section{Header: header, Lines: make([]string, 0)}
+			sections = append(sections, current)
 			continue
 		}
-
+		current.Lines = append(current.Lines, line)
 	}
-	return 0
+	return &CardFile{Name: filename, Sections: sections}, nil
+}
+
+func PrintFile(file *CardFile) {
+	fmt.Printf("%v\t%v\n", file.Name, file.CardCount())
+	for _, section := range file.Sections {
+		l := len(section.Lines)
+		if l > 0 {
+			fmt.Printf("\t%v\t%v\n", section.Header, l)
+		}
+	}
+}
+
+type CardFile struct {
+	Name     string
+	Sections []*Section
+}
+
+type Section struct {
+	Header string
+	Lines  []string
+}
+
+func (file *CardFile) CardCount() int {
+	total := 0
+	for _, s := range file.Sections {
+		total += len(s.Lines)
+	}
+	return total
 }
