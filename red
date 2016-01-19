@@ -8,7 +8,7 @@ Grim Lavamancer
 Mogg Fanatic
 Monastery Swiftspear
 Zurgo Bellstriker
-
+Foundry Street Denizen
 
 # 2 CMC
 Abbot of Keral Keep
@@ -24,6 +24,7 @@ Mogg War Marshal
 Mogis's Warhound
 Plated Geopede
 Young Pyromancer
+Goblin Wardriver
 
 # 3 CMC
 Boros Reckoner
@@ -35,7 +36,11 @@ Kolaghan Forerunners?
 Molten Birth
 Pyreheart Wolf
 Goblin Heelcutter
-
+Alesha, Who Smiles At Death
+Chandra's Phoenix
+Satyr Nyx-Smith
+Goblin Chieftan
+Jaya Ballard, Task Mage
 
 # 4 CMC
 Avaricious Dragon
@@ -45,16 +50,15 @@ Koth of the Hammer
 Outpost Siege
 Pia and Kiran Nalaar
 Thunderbreak Regent?
-
+Krenko, Mob Boss
 
 # LOTS
+Goblin Dark-Dwellers
 Sarkhan, the Dragonspeaker
 Thundermaw Hellkite
-Urabrask the Hidden
 Zealous Conscripts
-Inferno Titan
 Chandra, Flamecaller?
-
+Inferno Titan
 
 # BURN
 Burst Lightning
@@ -69,7 +73,8 @@ Skullcrack
 Char
 Exquisite Firecraft
 Crater's Claws
-
+Goblin Grenade
+Devil's Play
 
 # OTHER
 Bonfire of the Damned
@@ -86,3 +91,5 @@ Seething Song
 Slagstorm
 Chandra's Ignition
 Blasephemous Act
+Mob Rule
+Gut Shot
