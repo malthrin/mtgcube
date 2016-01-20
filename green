@@ -2,6 +2,7 @@
 
 # 1 CMC
 Arbor Elf
+Avacyn's Pilgrim
 Birds of Paradise
 Elvish Mystic
 Fyndhorn Elves
@@ -16,15 +17,19 @@ Ulvenwald Tracker
 Green Sun's Zenith
 Edge of Autumn
 Farseek
+Rampant Growth
 Lotus Cobra
+Rattleclaw Mystic
 Sakura Tribe Elder
 Sylvan Caryatid
 Wall of Roots
+Gyre Sage
+Strangleroot Geist
 
 Scavenging Ooze
 Wall of Blossoms
 Hooting Mandrills
-Mayor of Avabruck
+Explore
 
 # 3 CMC
 Boon Satyr
@@ -35,8 +40,12 @@ Kitchen Finks
 Nissa, Vastwood Seer
 Omnath, Locus of Mana
 Reclamation Sage
-Selvala, Explorer Returned
-
+Den Protector
+Kodama's Reach
+Cultivate
+Managorger Hydra
+Mul Daya Channelers
+Yisan, the Wanderer Bard
 
 # 4 CMC
 Druid's Familiar
@@ -47,7 +56,7 @@ Oracle of Mul Daya
 Polukranos, World Eater
 Surrak, the Hunt Caller
 Woodland Wanderer
-
+Temur Sabertooth
 
 # 5 CMC
 Acidic Slime
@@ -60,13 +69,13 @@ Vorapede
 Whisperwood Elemental
 Wolfir Silverheart
 
-
 # LOTS
 Genesis Hydra
 Greenwarden of Murasa
 Rampaging Baloths
 Craterhoof Behemoth
-
+Avenger of Zendikar
+Sylvan Primordial
 
 # SPELLS
 Treetop Village
@@ -83,3 +92,6 @@ Setessan Tactics
 Birthing Pod
 Harmonize
 Become Immense
+Fog
+Moment's Peace
+Evolutionary Leap
