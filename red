@@ -91,5 +91,5 @@ Seething Song
 Slagstorm
 Chandra's Ignition
 Blasephemous Act
-Mob Rule
+Rubblebelt Maaka
 Gut Shot
