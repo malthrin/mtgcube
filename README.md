@@ -16,3 +16,8 @@ Default curve 80:
 	5: 7
 	lots: 4
 	other: 25
+
+TODO:
+* Remove Bloodline Keeper
+* Remove Garruk Relentless
+* Add Sword of the Animist
