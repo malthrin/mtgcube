@@ -28,16 +28,17 @@ func main() {
 	arg := os.Args[1]
 	if arg == "all" {
 		total := 0
-		for _, filename := range Files {
-			cf, err := ReadFile(filename)
-			if err != nil {
-				fmt.Printf("Read error: %v\n", err.Error())
-				continue
-			}
+		for _, cf := range ReadAllFiles() {
 			fmt.Printf("%v\t%v\n", cf.Name, cf.CardCount())
 			total += cf.CardCount()
 		}
 		fmt.Printf("\nTotal\t%v\n", total)
+	} else if arg == "wishlist" {
+		cfs := ReadAllFiles()
+		for _, cf := range cfs {
+			fmt.Println(cf.Name)
+			PrintWishlistCards(cf)
+		}
 	} else {
 		found := false
 		for _, filename := range Files {
@@ -56,6 +57,19 @@ func main() {
 			fmt.Printf("Unknown arg '%v'\n", arg)
 		}
 	}
+}
+
+func ReadAllFiles() []*CardFile {
+	var files []*CardFile
+	for _, filename := range Files {
+		cf, err := ReadFile(filename)
+		if err != nil {
+			fmt.Printf("Read error: %v\n", err.Error())
+			continue
+		}
+		files = append(files, cf)
+	}
+	return files
 }
 
 func ReadFile(filename string) (*CardFile, error) {
@@ -89,6 +103,19 @@ func PrintFile(file *CardFile) {
 		l := len(section.Lines)
 		if l > 0 {
 			fmt.Printf("\t%v\t%v\n", section.Header, l)
+		}
+	}
+}
+
+func PrintWishlistCards(file *CardFile) {
+	for _, section := range file.Sections {
+		l := len(section.Lines)
+		if l > 0 {
+			for _, c := range section.Lines {
+				if strings.HasPrefix(c, "*") {
+					fmt.Printf("\t%v\n", c[1:])
+				}
+			}
 		}
 	}
 }

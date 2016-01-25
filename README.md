@@ -20,4 +20,3 @@ Default curve 80:
 TODO:
 * Remove Bloodline Keeper
 * Remove Garruk Relentless
-* Add Sword of the Animist
