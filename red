@@ -5,7 +5,7 @@ Figure of Destiny
 Firedrinker Satyr
 Goblin Guide
 Grim Lavamancer
-Mogg Fanatic
+*Mogg Fanatic
 Monastery Swiftspear
 Zurgo Bellstriker
 Foundry Street Denizen
@@ -15,16 +15,16 @@ Abbot of Keral Keep
 Dragon Fodder
 Firefist Striker
 Generator Servant
-Goblin Bombardment
+*Goblin Bombardment
 Gore-House Chainwalker
-Keldon Marauders
+*Keldon Marauders
 Krenko's Command
 Lightning Mauler
 Mogg War Marshal
 Mogis's Warhound
-Plated Geopede
+*Plated Geopede
 Young Pyromancer
-Goblin Wardriver
+*Goblin Wardriver
 
 # 3 CMC
 Boros Reckoner
@@ -40,7 +40,7 @@ Alesha, Who Smiles At Death
 Chandra's Phoenix
 Satyr Nyx-Smith
 Goblin Chieftan
-Jaya Ballard, Task Mage
+*Jaya Ballard, Task Mage
 
 # 4 CMC
 Avaricious Dragon
@@ -57,8 +57,8 @@ Goblin Dark-Dwellers
 Sarkhan, the Dragonspeaker
 Thundermaw Hellkite
 Zealous Conscripts
-Chandra, Flamecaller?
-Inferno Titan
+*Chandra, Flamecaller?
+*Inferno Titan
 
 # BURN
 Burst Lightning
@@ -66,20 +66,20 @@ Lightning Bolt
 Pillar of Flame
 Shock
 Wild Slash
-Incinerate
+*Incinerate
 Lightning Strike
 Searing Spear
 Skullcrack
-Char
+*Char
 Exquisite Firecraft
 Crater's Claws
-Goblin Grenade
+*Goblin Grenade
 Devil's Play
 
 # OTHER
 Bonfire of the Damned
 Brute Force
-Flame Slash
+*Flame Slash
 Weapon Surge
 Harvest Pyre
 Mizzium Mortars
@@ -87,8 +87,8 @@ Roast
 Dynacharge
 Harness By Force
 Radiant Flames
-Seething Song
-Slagstorm
+*Seething Song
+*Slagstorm
 Chandra's Ignition
 Blasephemous Act
 Rubblebelt Maaka
