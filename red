@@ -17,7 +17,7 @@ Firefist Striker
 Generator Servant
 *Goblin Bombardment
 Gore-House Chainwalker
-*Keldon Marauders
+Stormblood Berserker
 Krenko's Command
 Lightning Mauler
 Mogg War Marshal
