@@ -5,7 +5,7 @@ Figure of Destiny
 Firedrinker Satyr
 Goblin Guide
 Grim Lavamancer
-*Mogg Fanatic
+Mogg Fanatic
 Monastery Swiftspear
 Zurgo Bellstriker
 Foundry Street Denizen
@@ -15,7 +15,7 @@ Abbot of Keral Keep
 Dragon Fodder
 Firefist Striker
 Generator Servant
-*Goblin Bombardment
+Goblin Bombardment
 Gore-House Chainwalker
 Stormblood Berserker
 Krenko's Command
@@ -87,7 +87,7 @@ Roast
 Dynacharge
 Harness By Force
 Radiant Flames
-*Seething Song
+Seething Song
 *Slagstorm
 Chandra's Ignition
 Blasephemous Act
