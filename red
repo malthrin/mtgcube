@@ -22,7 +22,7 @@ Krenko's Command
 Lightning Mauler
 Mogg War Marshal
 Mogis's Warhound
-*Plated Geopede
+Plated Geopede
 Young Pyromancer
 *Goblin Wardriver
 
