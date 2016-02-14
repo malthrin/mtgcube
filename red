@@ -40,7 +40,7 @@ Alesha, Who Smiles At Death
 Chandra's Phoenix
 Satyr Nyx-Smith
 Goblin Chieftan
-*Jaya Ballard, Task Mage
+Jaya Ballard, Task Mage
 
 # 4 CMC
 Avaricious Dragon
@@ -58,7 +58,7 @@ Sarkhan, the Dragonspeaker
 Thundermaw Hellkite
 Zealous Conscripts
 *Chandra, Flamecaller?
-*Inferno Titan
+Inferno Titan
 
 # BURN
 Burst Lightning
@@ -88,7 +88,7 @@ Dynacharge
 Harness By Force
 Radiant Flames
 Seething Song
-*Slagstorm
+Slagstorm
 Chandra's Ignition
 Blasephemous Act
 Rubblebelt Maaka
