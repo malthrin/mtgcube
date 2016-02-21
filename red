@@ -73,7 +73,7 @@ Skullcrack
 *Char
 Exquisite Firecraft
 Crater's Claws
-*Goblin Grenade
+Goblin Grenade
 Devil's Play
 
 # OTHER
