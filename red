@@ -24,7 +24,7 @@ Mogg War Marshal
 Mogis's Warhound
 Plated Geopede
 Young Pyromancer
-*Goblin Wardriver
+Goblin Wardriver
 
 # 3 CMC
 Boros Reckoner
@@ -57,7 +57,7 @@ Goblin Dark-Dwellers
 Sarkhan, the Dragonspeaker
 Thundermaw Hellkite
 Zealous Conscripts
-*Chandra, Flamecaller?
+Chandra, Flamecaller
 Inferno Titan
 
 # BURN
@@ -79,7 +79,7 @@ Devil's Play
 # OTHER
 Bonfire of the Damned
 Brute Force
-*Flame Slash
+Flame Slash
 Weapon Surge
 Harvest Pyre
 Mizzium Mortars
