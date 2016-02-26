@@ -32,7 +32,7 @@ Chandra, Fire of Kaladesh
 Goblin Rabblemaster
 Guttersnipe
 Hordeling Outburst
-Kolaghan Forerunners?
+Kolaghan Forerunners
 Molten Birth
 Pyreheart Wolf
 Goblin Heelcutter
@@ -49,7 +49,7 @@ Flametongue Kavu
 Koth of the Hammer
 Outpost Siege
 Pia and Kiran Nalaar
-Thunderbreak Regent?
+Thunderbreak Regent
 Krenko, Mob Boss
 
 # LOTS
