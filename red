@@ -66,11 +66,11 @@ Lightning Bolt
 Pillar of Flame
 Shock
 Wild Slash
-*Incinerate
+Incinerate
 Lightning Strike
 Searing Spear
 Skullcrack
-*Char
+Char
 Exquisite Firecraft
 Crater's Claws
 Goblin Grenade
