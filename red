@@ -9,6 +9,7 @@ Mogg Fanatic
 Monastery Swiftspear
 Zurgo Bellstriker
 Foundry Street Denizen
+Frenzied Goblin
 
 # 2 CMC
 Abbot of Keral Keep
@@ -38,7 +39,7 @@ Pyreheart Wolf
 Goblin Heelcutter
 Alesha, Who Smiles At Death
 Chandra's Phoenix
-Satyr Nyx-Smith
+Reckless Bushwhacker
 Goblin Chieftan
 Jaya Ballard, Task Mage
 
