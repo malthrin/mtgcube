@@ -51,7 +51,6 @@ Koth of the Hammer
 Outpost Siege
 Pia and Kiran Nalaar
 Thunderbreak Regent
-Krenko, Mob Boss
 
 # LOTS
 Goblin Dark-Dwellers
@@ -93,3 +92,4 @@ Chandra's Ignition
 Blasephemous Act
 Rubblebelt Maaka
 Gut Shot
+*Ghitu Encampment
