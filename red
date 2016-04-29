@@ -9,6 +9,7 @@ Mogg Fanatic
 Monastery Swiftspear
 Zurgo Bellstriker
 Foundry Street Denizen
+Frenzied Goblin
 
 # 2 CMC
 Abbot of Keral Keep
@@ -38,7 +39,7 @@ Pyreheart Wolf
 Goblin Heelcutter
 Alesha, Who Smiles At Death
 Chandra's Phoenix
-Satyr Nyx-Smith
+Reckless Bushwhacker
 Goblin Chieftan
 Jaya Ballard, Task Mage
 
@@ -50,7 +51,6 @@ Koth of the Hammer
 Outpost Siege
 Pia and Kiran Nalaar
 Thunderbreak Regent
-Krenko, Mob Boss
 
 # LOTS
 Goblin Dark-Dwellers
@@ -73,7 +73,6 @@ Skullcrack
 Char
 Exquisite Firecraft
 Crater's Claws
-Goblin Grenade
 Devil's Play
 
 # OTHER
@@ -93,3 +92,4 @@ Chandra's Ignition
 Blasephemous Act
 Rubblebelt Maaka
 Gut Shot
+Ghitu Encampment
