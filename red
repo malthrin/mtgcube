@@ -92,4 +92,4 @@ Chandra's Ignition
 Blasephemous Act
 Rubblebelt Maaka
 Gut Shot
-*Ghitu Encampment
+Ghitu Encampment
