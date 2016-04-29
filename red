@@ -17,7 +17,7 @@ Dragon Fodder
 Firefist Striker
 Generator Servant
 Goblin Bombardment
-Gore-House Chainwalker
+Borderland Marauder
 Stormblood Berserker
 Krenko's Command
 Lightning Mauler
