@@ -5,91 +5,92 @@ Figure of Destiny
 Firedrinker Satyr
 Goblin Guide
 Grim Lavamancer
-Mogg Fanatic - worst 1-drop
+Mogg Fanatic
 Monastery Swiftspear
 Zurgo Bellstriker
-Foundry Street Denizen - keep an eye on synergy
+Foundry Street Denizen
 Frenzied Goblin
 
 # 2 CMC
 Abbot of Keral Keep
 Dragon Fodder
 Firefist Striker
-Generator Servant - like
-Goblin Bombardment - red anthem?
-Borderland Marauder
+Generator Servant
+Goblin Bombardment
 Stormblood Berserker
 Krenko's Command
 Lightning Mauler
-Mogg War Marshal
-Mogis's Warhound - underpowered?
-Plated Geopede - landfall too hard
+Mogis's Warhound
 Young Pyromancer
-Goblin Wardriver - not justified for CC
+Earthshaker Khenra
+Kari Zev, Skyship Raider
+Bloodrage Brawler
+Thermo-Alchemist
 
 # 3 CMC
 Boros Reckoner
-Chandra, Fire of Kaladesh - hard to activate
+Chandra, Fire of Kaladesh
 Goblin Rabblemaster
-Guttersnipe - maybe underpowered?
 Hordeling Outburst
-Kolaghan Forerunners - weak?
-Molten Birth - fun
-Pyreheart Wolf - red anthem
+Pyreheart Wolf
 Goblin Heelcutter
-Alesha, Who Smiles At Death - would like black gy enabler
+Alesha, Who Smiles At Death
 Chandra's Phoenix
 Reckless Bushwhacker
-Goblin Chieftan - cuttable
-Jaya Ballard, Task Mage - huh
+Jaya Ballard, Task Mage
+Hanweir Garrison
+Sin Prodder
+Weaver of Lightning
+Jeering Instigator
 
 # 4 CMC
-Avaricious Dragon - upgrade?
-Chandra, Pyromaster - fine
+Chandra, Pyromaster
 Flametongue Kavu
-Koth of the Hammer - monored only?
 Outpost Siege
 Pia and Kiran Nalaar
-Thunderbreak Regent - fine
+Thunderbreak Regent
+Goldnight Castigator
+Chandra, Torch of Defiance
 
 # LOTS
-Goblin Dark-Dwellers - great, interesting deckbuild
+Goblin Dark-Dwellers
 Sarkhan, the Dragonspeaker
 Thundermaw Hellkite
 Zealous Conscripts
 Chandra, Flamecaller
 Inferno Titan
+Glorybringer
 
 # BURN
 Burst Lightning
 Lightning Bolt
-Pillar of Flame - low upside
+Pillar of Flame
 Shock
 Wild Slash
 Incinerate
 Lightning Strike
 Searing Spear
-Skullcrack - upgrade?
 Char
 Exquisite Firecraft
 Crater's Claws
-Devil's Play
+Collective Defiance
+Inferno Jet
 
 # OTHER
 Bonfire of the Damned
 Brute Force
 Flame Slash
 Weapon Surge
-Harvest Pyre - too slow
 Mizzium Mortars
 Roast
 Dynacharge
 Harness By Force
 Radiant Flames
-Seething Song - weird but powerful?
-Slagstorm
-Chandra's Ignition - upgrade?
-Blasephemous Act - anti-token?
+Seething Song
+Blasephemous Act
 Rubblebelt Maaka
-Gut Shot - bad shock
 Ghitu Encampment
+Kari Zev's Expertise
+Lightning Axe
+Sweltering Suns
+Hanweir Battlements
