@@ -28,7 +28,6 @@ Bloodrage Brawler
 Thermo-Alchemist
 
 # 3 CMC
-Boros Reckoner
 Chandra, Fire of Kaladesh
 Goblin Rabblemaster
 Hordeling Outburst
